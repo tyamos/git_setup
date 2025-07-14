@@ -1,4 +1,4 @@
-# My documentation for git and github, beginners guide to seting up git and github
+# My documentation for GIT and GITHUB, beginners guide to setting up GIT and GITHUB. 
 
 
 ## 1. What is Version Control? 
