@@ -1,9 +1,13 @@
-What is Version Control? 
+# My documentation for git and github, beginners guide to seting up git and github
+
+
+## 1. What is Version Control? 
+
 
 Version Control is a system built to manage and keep record or track of documents overtime. 
 
 
-What is Version Control used for? 
+## 2. What is Version Control used for? 
 
 Version Control is best used for collaboration. 
 
