@@ -11,19 +11,19 @@ Version Control is a system built to manage and keep record or track of document
 
 Version Control is best used for collaboration. 
 
-What is GIT?
+## 3. What is GIT?
 
 GIT is a version control system that is free and open source distributed. 
 
-What is GITHUB? 
+## 4. What is GITHUB? 
 
 GITHUB is a platform that leverage Git for version control, primarily used by developers or engineers for collaborative work. 
 
-Dfference between GIT and GITHUB. 
+## 5. Dfference between GIT and GITHUB. 
 GIT: iS distributed version control system for keep record and updates in source code during any software development.
 GITHUB: This is a web based hosting service, particularly for GIT, which offers a distributed version control and source code management. 
 
-Comprehensive GIT and GITHUB setup on Linux Operating system for beginners. 
+## 6. Comprehensive GIT and GITHUB setup on Linux Operating system for beginners. 
 
 Before you install git, you first of all need to check if it is already installed on your device or not. By using the command "git --version", on a linux ubuntu operating system, it checks for any existing installations. 
 
@@ -52,7 +52,7 @@ If you are not familiar with Bash, then you need to get a teacher or get yourelf
 Step 6: Your run the code "ls -al ~/.ssh".
 Step 7: You run the next code which is "ssh-keygen -t ed25519 -C august@example.com" then you press enter. It will require you to set up a passphrase, kindly do not set the passphrase and press enter instead, it will ask you to verify, press enter again and it will be set. 
 
-Step 8: "cat ~/.ssh/id_ed25519.pub", use the command and when it executes, copy the oupout. Move to your Github,navigate to settings, locate SSH and GPG Keys, click on New SSH Key. Paste the key and name it, for me, I named mine after my laptop name, you can do same or find a better name. 
+Step 8: "cat ~/.ssh/id ed25519.pub", use the command and when it executes, copy the oupout. Move to your Github,navigate to settings, locate SSH and GPG Keys, click on New SSH Key. Paste the key and name it, for me, I named mine after my laptop name, you can do same or find a better name. 
 
 Step 9: Use the command "ssh -T git@github.com" to test the connection or link, it should display a message that it is successful if you followed all instructions above. 
 
